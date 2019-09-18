@@ -1,0 +1,11 @@
+{
+  "name": "netlify",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:amirhossein693/netlify_fn.git",
+  "author": "Amirhossein <amirhossein693@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
